@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with [solving some riddles TwT](https://natribu.org/en/)
 
-- 👨‍💻 All of my projects are available at [nowhere, they're not public](nowhere, they're not public)
+- 👨‍💻 All of my projects are available at [nowhere, they're not public](https://natribu.org/en/)
 
-- 📝 I regularly write articles on [nowhere, i like to tell news privately](nowhere, i like to tell news privately)
+- 📝 I regularly write articles on **nowhere, i like to tell news privately**
 
 - 💬 Ask me about **sweets, anime and infosec**
 
-- 📫 How to reach me **newjersex@proton.me**
+- 📫 How to reach me: **newjersex@proton.me**
 
-- 📄 Know about my experiences [https://natribu.org](https://natribu.org/en/)
+- 📄 Know about my experiences [here UwU](https://natribu.org/en/)
 
 - ⚡ Fun fact: **I'm fictional character UwU**
 
