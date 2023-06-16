@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm New Jersey</h1>
 <h3 align="center">A dragon girl that playing with LEGO bricks.</h3>
 
-- 🔭 I’m currently working on [???](https://natribu.org)
+- 🔭 I’m currently working on [???](https://natribu.org/en/)
 
 - 🌱 I’m currently learning **steganography and cryptography**
 
-- 👯 I’m looking to collaborate on [???](https://natribu.org)
+- 👯 I’m looking to collaborate on [???](https://natribu.org/en/)
 
-- 🤝 I’m looking for help with [solving some riddles TwT](https://natribu.org)
+- 🤝 I’m looking for help with [solving some riddles TwT](https://natribu.org/en/)
 
 - 👨‍💻 All of my projects are available at [nowhere, they're not public](nowhere, they're not public)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **newjersex@proton.me**
 
-- 📄 Know about my experiences [https://natribu.org](https://natribu.org)
+- 📄 Know about my experiences [https://natribu.org](https://natribu.org/en/)
 
 - ⚡ Fun fact **I'm fictional character UwU**
 
